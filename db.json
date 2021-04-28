@@ -11,6 +11,6 @@
     {"name":"Mobile Programming","credit":2,"teacherID":1,"active":true}
    ],
   "department":"Computer Engineering",
-  "teacherAges":[{30,32,40,57,63,26,45}]
+  "teacherAges":[30,32,40,57,63,26,45]
 }
 
