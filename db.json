@@ -1,5 +1,5 @@
-{
-  "teachers":[
+[
+  {"teachers":[
     {"id":1,"name":"Yasin Ortakci","salary":6515.25},
     {"id":2,"name":"Emrullah Sonuc","salary":7415.15},
     {"id":3,"name":"Mehmet Akbaba","salary":10000.25}
@@ -12,4 +12,5 @@
    ],
   "department":"Computer Engineering",
   "teacherAges":[30,32,40,57,63,26,45]
-}
+  }
+]
